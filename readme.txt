@@ -3,4 +3,3 @@ This Matlab toolbox helps readers to reproduce the Chinese paper "基于SGT分�
 Author: Zaixin Huang
 Email: eric.huangzaixin@gmail.com
 This version: 2023.10.01
-Notes: This toolbox is only free for scholars and students who use it for research purposes and cannot be used for commercial purposes.
